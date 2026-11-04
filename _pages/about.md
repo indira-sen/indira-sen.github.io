@@ -17,9 +17,9 @@ Before Mannheim, I was a postdoc at the University of Konstanz in the Department
 Before moving to Germany for my doctoral studies, I did my Master's at IIIT Delhi and my Bachelor's at Vellore Institute of Technology, both in India.
 
 ## News
-
-- Oct'26: Attending EMNLP in Budapest and presenting a poster at the NLP4PI workshop on investigating how LLMs answer questions about democracy
-- Oct'26: Participating in a panel discussion on ["Diversity and Gender in Research"](https://www.uni-mannheim.de/en/gender-equality-and-equal-opportunity/events/program-diversity-week-2026/#c502368) at the University of Mannheim
+- Nov'26: Giving an invited talk at TU Munich, Heilbronn campus on "Measuring Political Values in Large Language Models"
+- Oct'26: Attended EMNLP in Budapest and presenting a poster at the NLP4PI workshop on investigating how LLMs answer questions about democracy
+- Oct'26: Participated in a panel discussion on ["Diversity and Gender in Research"](https://www.uni-mannheim.de/en/gender-equality-and-equal-opportunity/events/program-diversity-week-2026/#c502368) at the University of Mannheim
 - Sept'26: Gave an invited lecture as a part of the [Lecture Series on AI & Survey Science](https://www.uni-mannheim.de/en/datascience/details/lecture-series-data-science-in-action-2024-interdisciplinary-and-international/). My lecture was titled ["Is AI Friend or Foe to Survey-based Data Collection?"](https://docs.google.com/presentation/d/1qvdSdyV_5t_TILtKTCoM6GTcRvzolx5c5sAE0PWryfw/edit?usp=sharing) 
 - Fall-Winter Semester'26: teaching the 2nd iteration of ["Large Language Models for the Economic and Social Sciences"](https://github.com/dess-mannheim/LLM4ESS-HWS25/tree/main)
 - I'm one of the program chairs of [ICWSM'27](https://www.icwsm.org/2027/)! 
