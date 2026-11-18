@@ -1,12 +1,14 @@
 ---
-title: 'A Primer on In Silico Surveys'
+title: 'A Primer on *In Silico* Surveys'
 date: 2026-11-17
 permalink: /blog/primer-on-in-silico-surveys/
-excerpt: "What happens when Large Language Models answer survey questions on behalf of people? A non-technical introduction to silicon sampling, how it works, and why evaluating it is hard."
+excerpt: "What happens when Large Language Models answer survey questions on behalf of people? A non-technical introduction to silicon sampling and judging the quality of (human or otherwise) surveys."
 tags:
   - LLMs
   - surveys
   - silicon sampling
+  - in silico sampling
+  - evaluation
 ---
 
 *Author: Indira Sen (I used Claude Opus 5.5 for proof-reading)*
@@ -35,7 +37,7 @@ Even with the more conservative evaluation of silicon sampling that involves dir
 
 ## References and Notes
 
-This is supposed to be a nontechnical and jargon-free intro to *in silico* samples. This also means that it's intentionally light on references to scientific publications (except my own, obviously…).
+This is supposed to be a nontechnical and jargon-free intro to *in silico* samples. This also means that it's intentionally light on references to scientific articles (except my own, obviously…).
 
 <a id="ref1"></a>[1] One of the early and hugely influential papers that introduced *in silico* sampling: Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J. R., Rytting, C., & Wingate, D. (2023). [Out of one, many: Using language models to simulate human samples.](https://arxiv.org/abs/2209.06899) *Political Analysis*, *31*(3), 337-351.
 
@@ -45,6 +47,6 @@ This is supposed to be a nontechnical and jargon-free intro to *in silico* sampl
 
 <a id="ref4"></a>[4] A paper revisiting Argyle et al., and showing that the evaluation measure, e.g., mean vs. variance, plays a large role in determining whether *in silico* samples work or not: Bisbee, J., Clinton, J. D., Dorff, C., Kenkel, B., & Larson, J. M. (2024). [Synthetic replacements for human survey data? The perils of large language models.](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE) *Political Analysis*, *32*(4), 401-416.
 
-<a id="ref5"></a>[5] A [recent white-paper from Prolific asks (hopefully real) people about their opinions on in silico samples and 'digital twins' producing survey responses.](https://www.prolific.com/resources/how-researchers-created-the-most-extensive-public-dataset-for-digital-twin-research)
+<a id="ref5"></a>[5] A [recent white-paper from Prolific](https://resources.prolific.com/what-participants-think-about-synthetic-data-and-digital-twins) asks (hopefully real) people about their opinions on *in silico* samples and 'digital twins' producing survey responses.
 
 Additionally, I found Mark Riedl's [2-part primer on LLMs](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a) quite accessible for more background on general LLM training, and how and what LLMs learn from data.
